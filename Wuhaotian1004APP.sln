@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W1HW2App", "W1HW2App\W1HW2A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W1HW3App", "W1HW3App\W1HW3App.csproj", "{CC80C7F2-ECE6-4556-AED7-CD0925513701}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSWinFormsApp", "CMSWinFormsApp\CMSWinFormsApp.csproj", "{74A6B6BA-9A99-47F8-AA9E-B311C16230B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CC80C7F2-ECE6-4556-AED7-CD0925513701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC80C7F2-ECE6-4556-AED7-CD0925513701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC80C7F2-ECE6-4556-AED7-CD0925513701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A6B6BA-9A99-47F8-AA9E-B311C16230B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A6B6BA-9A99-47F8-AA9E-B311C16230B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A6B6BA-9A99-47F8-AA9E-B311C16230B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A6B6BA-9A99-47F8-AA9E-B311C16230B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
